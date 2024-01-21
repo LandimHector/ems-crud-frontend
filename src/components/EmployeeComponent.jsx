@@ -156,3 +156,4 @@ const EmployeeComponent = () => {
     </div>
   )
 }
+export default EmployeeComponent

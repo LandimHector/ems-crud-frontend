@@ -7,12 +7,12 @@ It's a simple CRUD system using React
 </p>
 
 <p align="center">
-  <img alt="GitHub language count" src="" />
-  <a href="">
-    <img src=""/>
+  <img alt="GitHub language count" src="https://img.shields.io/github/languages/top/LandimHector/ems-crud-frontend?color=brightgreen" />
+  <a href="https://github.com/LandimHector">
+    <img src="https://img.shields.io/badge/github-LandimHector-7159C1?logo=GitHub"/>
   </a>
-  <a href="">
-    <img src=""/>
+  <a href="https://www.linkedin.com/in/hectorlandim/">
+    <img src="https://img.shields.io/badge/linkedin-hectorlandim-blue?logo=linkedin"/>
   </a>
 </p>
 
@@ -33,5 +33,6 @@ npm install
 ## Run
 
 ```
+npm run build
 npm run dev
 ```
